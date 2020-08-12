@@ -1,0 +1,10 @@
+.form{
+	width: 700px;
+	background-image: linear-gradient(to right, brown , pink);
+}
+button{
+	border-color: purple;
+}
+input{
+	border-color: white;
+}
